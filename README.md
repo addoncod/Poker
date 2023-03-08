@@ -5,7 +5,7 @@ The game was made using HTML, CSS, JavaScript, JQuery, Ajax, MySQL and vanilla P
 
 
 Index login page let you register to the game and then log into the menu with your username and password.
-![Login](https://user-images.githubusercontent.com/105807818/223847920-ec048eb9-8459-4c86-8ba2-74f1e7fc6bef.png)
+![Login](https://user-images.githubusercontent.com/105807818/223848966-fc7e1aac-c701-48b6-9afe-4a7035a3dbae.png)
 
 Menu page let you choose the table you want to play. Clicking one of the button will direct you to the chosen table.
 ![Menu](https://user-images.githubusercontent.com/105807818/223848006-e2a7e23f-46c1-4be9-96ad-dbab685db7ff.png)
