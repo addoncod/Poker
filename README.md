@@ -4,6 +4,7 @@ Multiplayer browser poker game realized in Texas Holdem system.
 The game was made using HTML, CSS, JavaScript, JQuery, Ajax, MySQL and vanilla PHP to learn as much as possible.
 
 
+
 Index login page let you register to the game and then log in to the menu with your username and password.
 ![Login](https://user-images.githubusercontent.com/105807818/223848966-fc7e1aac-c701-48b6-9afe-4a7035a3dbae.png)
 
