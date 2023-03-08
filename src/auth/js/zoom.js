@@ -1,0 +1,1 @@
+if(screen.width<2560) {document.write("<style>html{zoom:67%;}</style>")};
