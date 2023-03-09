@@ -1,7 +1,7 @@
 # Poker
 Multiplayer browser poker game realized in Texas Holdem system.
 
-The game was made using HTML, CSS, JavaScript, JQuery, Ajax, MySQL and vanilla PHP to learn as much as possible.
+The game was made using HTML, CSS, JavaScript, JQuery, MySQL and vanilla PHP to learn as much as possible.
 
 Index login page let you register to the game and then log in to the menu with your username and password.
 ![Login](https://user-images.githubusercontent.com/105807818/223848966-fc7e1aac-c701-48b6-9afe-4a7035a3dbae.png)
@@ -20,4 +20,4 @@ Green - The player with the turn
 ![DuringTheGame](https://user-images.githubusercontent.com/105807818/223848374-c10e7eff-f746-4357-8732-fa1923575e24.png)
 
 
-the game is played according to the rules of the Texas Holdem system, at the first round every player gets two cards, then the game determines Dealer, Small Blind, Big Blind and automatically put they blind bets (150$, 200$) on the table, then everyone has chance to make call, raise or fold. The second round will lay down the three cards on the table - Flop, the third round will lay down the fourth card - Turn, the fourth round will lay down the fifth card - River and at the end of this round the game will determine the winners with the winning hands, once it's done the game will automatically start again.
+the game is played according to the rules of the Texas Holdem system, at the first round every player gets two cards, then the game determines Dealer, Small Blind, Big Blind and automatically put they blind bets (150$, 200$) on the table, then everyone has chance to make call, raise or fold. The second round will lay down the three cards on the table - Flop, the third round will lay down the fourth card - Turn, the fourth round will lay down the fifth card - River and at the end of this round the game will determine the winners with the winning hands and will split the pot amongs them, once it's done the game will automatically start again.
